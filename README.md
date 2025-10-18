@@ -36,31 +36,31 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
         <br>C++
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
         <br>Java
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
         <br>Python
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
         <br>JavaScript
       </a>
     </td>
     <td align="center" width="96">
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <a>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
     <br>Postman
   </a>
@@ -68,31 +68,31 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
         <br>React
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
         <br>Next.js
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
         <br>Node.js
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
         <br>Express
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
         <br>Tailwind CSS
       </a>
@@ -100,25 +100,25 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
         <br>HTML5
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
         <br>CSS3
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
         <br>MongoDB
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
         <br>Git
       </a>
@@ -128,7 +128,7 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📋 My GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bh459&show_icons=true&locale=en&theme=tokyonight" alt="bh459" />
 </p>
