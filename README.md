@@ -125,16 +125,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📋 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bh459&show_icons=true&locale=en&theme=tokyonight" alt="bh459" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bh459&theme=tokyonight" alt="bh459" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bh459&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bh459" />
-</p>
