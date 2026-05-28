@@ -1,127 +1,88 @@
-<h1 align="center">Hi 👋, I'm Brij Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bh459&label=Profile%20views&color=0e75b6&style=flat" alt="bh459" />
-</p>
+# Hey, I'm Brij Patel 👋
+### Full Stack Developer · AI Integration · MERN · Next.js · FastAPI
 
-<p align="left">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-  - 🔭 I’m currently working on an **AI Powered Smart Recruitment Assistant**
-  
-  - 🌱 I’m currently learning **Python**
-  
-  - 👨‍💻 All of my projects are available at **https://www.brijpatel.me**
-  
-  - 💬 Ask me about **MERN, JAVA and Python**
-  
-  - 📫 You can reach me at **brij2608@gmail.com**
-</p>
+_Turning ideas into full-stack products — from pixel to production._
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-brijpatel.me-000000?style=flat&logo=vercel&logoColor=white)](https://www.brijpatel.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brij_Patel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brij-h-patel)
+[![Email](https://img.shields.io/badge/Email-brij2608@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:brij2608@gmail.com)
+
+</div>
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/brij-h-patel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brij patel" height="30" width="40" />
-  </a>
-</p>
+## What I build
+
+I build full-stack web applications and AI-integrated products — clean frontends, reliable backends, and ML pipelines that actually ship. My focus is writing code that is **production-ready, not just prototype-worthy**.
+
+Currently a Computer Science student at LDRP Institute of Technology & Research (2023–2027), working at the intersection of full-stack development and applied machine learning.
 
 ---
 
-### 🛠️ Languages and Tools:
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-        <br>C++
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-        <br>Java
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        <br>Python
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <br>JavaScript
-      </a>
-    </td>
-    <td align="center" width="96">
-  <a>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-    <br>Postman
-  </a>
-</td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-        <br>React
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-        <br>Next.js
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-        <br>Node.js
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-        <br>Express
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-        <br>Tailwind CSS
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        <br>HTML5
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-        <br>CSS3
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-        <br>MongoDB
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-        <br>Git
-      </a>
-    </td>
-  </tr>
-</table>
+## Tech I work with
+
+**Frontend**
+```
+React · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3
+```
+
+**Backend & APIs**
+```
+Node.js · Express.js · FastAPI · REST APIs · MongoDB · MySQL
+```
+
+**AI & Data**
+```
+Python · Pandas · NumPy · LLM Integration
+```
+
+**Languages**
+```
+TypeScript · JavaScript · Python · Java
+```
+
+**Tools**
+```
+Git · GitHub · Postman · Vercel · Render
+```
+
+---
+
+## Currently
+
+- 🤖 Building an **AI-Based Internship Recommendation Engine** — MERN + FastAPI
+- 📐 Going deeper into **system design** and **scalable backend architecture**
+- 🌱 Expanding into **cloud deployment** (AWS)
+- 🎯 Open to **Full Stack** roles — On-site · Hybrid · Remote
+
+---
+
+## Projects
+
+> 📂 Full showcase at **[brijpatel.me](https://www.brijpatel.me)**
+
+| Project | Stack | What it does |
+|---|---|---|
+| Internship AI Engine | MERN · FastAPI · Python | Dual-module AI system — personalized internship recommendations + smart allocation engine for Internship Scheme Portal. |
+| Smart Recruitment Assistant | Next.js · Node.js · MongoDB · Razorpay · Gemini API | Smart Recruitment Assistant for Resume Matching, Fake Job Detection & AI Interview Evaluation. |
+| Event Coordination Platform | MERN · Tailwind · QR Codes Integration | Admins manage events, track revenue, assign volunteer roles, and export registrations. <br> Volunteers handle participant lists, payments, receipts, and ticket redemption. <br> Students self-register, browse events, use QR passes, and track registration status. <br> The system provides fast QR scanning for smooth, secure, and efficient event operations. |
+| Sales & Inventory Platform | Next.js · Node.js · MongoDB · Chart.js | Admin Features: Manage organizations, products, pricing, inventory, employee accounts, and track sales with real-time analytics. <br> Employee Features: Join organizations, sell products, and view personal sales history with real-time product availability updates. |
+| Portfolio Website - Modern Design | MERN | Modern, responsive portfolio showcasing creative work with smooth animations, dark mode toggle, and optimized performance. |
+
+---
+
+## Let's connect
+
+If you're building a product that needs solid full-stack or AI Integration — let's talk.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-brijpatel.me-000000?style=flat&logo=vercel&logoColor=white)](https://www.brijpatel.me)
+[![Email](https://img.shields.io/badge/Email-brij2608@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:brij2608@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brij_Patel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brij-h-patel)
+
+---
+
+<div align="center">
+<sub>Building in public · Ahmedabad, India 🇮🇳</sub>
+</div>
